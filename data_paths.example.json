@@ -1,0 +1,11 @@
+{
+  "_about": "Copy to LAMP_DataStore/ElBagawat/data_paths.json and replace each <...> with the dataset's own file name. Paths are relative to LAMP_DataStore/ElBagawat/. scripts/sanity_checks.py reports any key left unset.",
+  "dem_buildings_legacy": "200_Projects/220_BuildingsToDEM/<legacy DEM with buildings, 1.5 m>.tif",
+  "dem_base_04": "100_Data/150_DigitalElevationModel/Generated_DEMs/Current_DEM/<base DEM, 0.4 m>.tif",
+  "dem_base_05": "100_Data/150_DigitalElevationModel/Generated_DEMs/Current_DEM/<base DEM, 0.5 m>.tif",
+  "ortho_04": "100_Data/150_DigitalElevationModel/Generated_DEMs/Current_DEM/<orthophoto, 0.4 m>.tif",
+  "footprints": "100_Data/130_BuildingFootprintsVectorData/BuildingTracesCurrent/<building footprints>.shp",
+  "report_xlsx": "100_Data/120_SiteReport/<excavation-report spreadsheet>.xlsx",
+  "report_pdf": "100_Data/120_SiteReport/<excavation-report scan>.pdf",
+  "site_cad_dwg": "100_Data/120_SiteReport/BaseSiteCAD/<site CAD drawing>.dwg"
+}
